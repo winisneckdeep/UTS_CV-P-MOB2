@@ -1,0 +1,22 @@
+{
+  "identitasAkademik": {
+    "nama": "Mochamad Adam Miftah Faridl",
+    "nim": "242505001",
+    "semester": 5,
+    "mataKuliah": "Pemrograman Mobile 2",
+    "dosen": "Iin, M.Kom"
+  },
+  "currentScore": {
+    "nilai": 89,
+    "grade": "A"
+  },
+  "learningPoints": {
+    "total": 12375
+  },
+  "learningProgress": {
+    "attendance": 100,
+    "practice": 87,
+    "quest": 95,
+    "challenge": 100
+  }
+}

@@ -1,0 +1,8 @@
+[
+  { "id": "1", "name": "React Native & Expo", "level": "Advanced", "percentage": 90 },
+  { "id": "2", "name": "JavaScript / ES6+", "level": "Advanced", "percentage": 85 },
+  { "id": "3", "name": "UI/UX Design & Layout", "level": "Intermediate", "percentage": 80 },
+  { "id": "4", "name": "State Management & Props", "level": "Advanced", "percentage": 88 },
+  { "id": "5", "name": "PHP", "level": "Intermediate", "percentage": 75 },
+  { "id": "6", "name": "Laravel", "level": "Intermediate", "percentage": 75 }
+]

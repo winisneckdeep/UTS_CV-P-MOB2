@@ -1,0 +1,6 @@
+[
+  { "id": "1", "title": "Personal CV & Score App", "tech": "React Native, Expo", "desc": "Aplikasi mobile profil interaktif dan dashboard akademik UTS PMOB2." },
+  { "id": "2", "title": "Academic War LMS UI", "tech": "React, Tailwind", "desc": "Eksplorasi antarmuka platform pembelajaran digital." },
+  { "id": "3", "title": "winstore8485", "tech": "PHP, Laravel", "desc": "Toko online yang menjual berbagai peralatan musik." },
+  { "id": "4", "title": "SIAKAD SMKN 1 Rancaekek", "tech": "PHP, Laravel", "desc": "Sistem informasi akademik untuk mendukung pengelolaan informasi sekolah SMKN 1 Rancaekek." }
+]

@@ -1,0 +1,14 @@
+{
+  "nama": "Mochamad Adam Miftah Faridl",
+  "nim": "242505001",
+  "fakultas": "Komputer",
+  "prodi": "Sistem Informasi (SI-R-5)",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=MochamadAdam",
+  "profesi": "Mobile Developer & UI/UX Enthusiast",
+  "deskripsi": "Mahasiswa Semester 5 Fakultas Komputer yang berfokus pada pengembangan aplikasi mobile menggunakan React Native, Expo, serta eksplorasi sistem informasi modern.",
+  "kontak": {
+    "email": "adamisneckdeep@masoemuniversity.ac.id",
+    "whatsapp": "+62 852-9568-1288",
+    "lokasi": "Universitas Ma'soem, Fakultas Komputer"
+  }
+}
